@@ -2,13 +2,13 @@
 
  <widget xmlns ="http://www.w3.org/ns7widgets"
   xmlns:gap="http://phonegap.com/ns/1.0"
-  id ="com.phonegap.app4"
+  id ="com.phonegap.app8"
   version ="1.0.0">
   
-   <name>app5 Notificaciones del dispositivo 2018</name>
+   <name>app8 muestra otras apps</name>
    
    <description>
-  Aplicacion que realiza la vibracion y beep del dispositivo
+   muestra otras apps
    </description>
    
    <author href="https://build.phonegap.com" email="yailincbtis16@gmail.com">
